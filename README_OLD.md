@@ -5,10 +5,10 @@
 <!-- <img src="https://elcho911.netlify.app/shaiyldaevich-icons/Front-end-DevX.gif"/> -->
 <!-- <img src="https://elcho911.netlify.app/shaiyldaevich-icons/madara.gif"/> -->
 <!-- <img src="https://elcho911.netlify.app/shaiyldaevich-icons/madara-v2.gif"/> -->
-<img width="800px" height="125px" src="https://elcho911.netlify.app/shaiyldaevich-icons/elcho.gif"/>
+<img width="800px" height="125px" src=""/>
 </div>
 
-<h1 align="center"><span style="color: #00FFF6; font-weight: 700;">Hi there, </span><span style="color: red; font-weight: 700;">I'm</span> <a style="color: #FFE15D; font-weight: 700;" href="https://github.com/shaiyldaevich" target="_blank">Elkhan</a> 
+<h1 align="center"><span style="color: #00FFF6; font-weight: 700;">Hi there, </span><span style="color: red; font-weight: 700;">I'm</span> <a style="color: #FFE15D; font-weight: 700;" href="https://github.com/arstan6ekovich" target="_blank">Mar4ik</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## 🙋‍♂️ About Me
@@ -21,16 +21,16 @@
 <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=I'm+a+Frontend+Developer+Engineer"/>
 </a> -->
 
-<a href="https://github.com/shaiyldaevich">
+<a href="https://github.com/arstan6ekovich">
 <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Frontend+Developer+Engineer"/>
 </a>
 
-<a href="https://github.com/shaiyldaevich">
+<a href="https://github.com/arstan6ekovich">
 <img height="70" src="https://readme-typing-svg.herokuapp.com?color=CB1C8D&lines=Backend+Developer"/>
 </a>
 
 <div align="center">
-  <a href="https://github.com/shaiyldaevich">
+  <a href="https://github.com/arstan6ekovich">
   <img src="https://github.com/bimashazaman/Github-snake-SVG/raw/master/snake.svg"
        alt="snake" /></a>
 </div>
@@ -63,15 +63,15 @@
 ## 📊 My Github Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">
-<a href="https://github.com/shaiyldaevich"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shaiyldaevich&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
+<a href="https://github.com/arstan6ekovich"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=arstan6ekovich&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
 </a>
-<a href="https://github.com/shaiyldaevich"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiyldaevich&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+<a href="https://github.com/arstan6ekovich"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arstan6ekovich&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
 </a>
 </div>
 
 <p align="center">
-    <a href="https://github.com/shaiyldaevich">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiyldaevich&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+    <a href="https://github.com/arstan6ekovich">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arstan6ekovich&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 
@@ -80,10 +80,10 @@
 <!-- <a href="https://github.com/shaiyldaevich"><img alt="Elcho Effects Top Languages" src="https://activity-graph.herokuapp.com/graph?username=shaiyldaevich&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 </a> -->
 
-<a href="http://www.github.com/shaiyldaevich"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shaiyldaevich&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/arstan6ekovich"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=arstan6ekovich&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Commits Graph" /></a>
 
 <div align="center">
-<img width="800px" height=200px src="https://elcho911.netlify.app/shaiyldaevich-icons/developer.gif"/>
+<img width="800px" height=200px src="https://elcho911.netlify.app/arstan6ekovich-icons/developer.gif"/>
 </div>
 
 <!-- <p align="center">
@@ -92,7 +92,7 @@
     </a>
 </p> -->
 <p align="center">
-<a href="https://github.com/shaiyldaevich"><img alt="Elcho Effects Top Languages" src="https://github-profile-trophy.vercel.app/?username=shaiyldaevich&theme=radical"/>
+<a href="https://github.com/arstan6ekovich"><img alt="Elcho Effects Top Languages" src="https://github-profile-trophy.vercel.app/?username=arstan6ekovich&theme=radical"/>
 </a>
 </p>
 
